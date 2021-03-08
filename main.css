@@ -1,0 +1,35 @@
+._2oExzUs-thVdgi5RFS4NHL {
+  height: auto;
+  width: auto;
+}
+
+:root {
+    --color-main-1: #0000FF;
+    --color-main-2: #FF0000;
+    --color-black: #000000;
+    --color-white: #FFFFFF;
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0; 
+  border: 0;
+  padding: 0; 
+  background-color: transparent;
+}
+
+html {
+  font-size: 16px;
+  line-height: 1.15;
+  -ms-text-size-adjust: 100%;
+  -webkit-text-size-adjust: 100%;
+}
+
+body {
+  font-size: 1rem;
+}
+
+body, input, textarea, button, select {
+  line-height: 130%;
+}
+
